@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @R-Rayburn
+- 👋 Hi, I’m [Robert Rayburn](@R-Rayburn)
 - 👀 I’m interested in getting a larger breadth of knowledge in technologies.
 - 🌱 I’m currently learning Design Patterns(JAVA) and React; (and extending knowledge in Python3).
-- :telescope: I'm looking to learn Go and the MEAN stack.
+- :telescope: I'm looking to learn Go and the MEAN stack in the near future.
 - 💞️ I’m looking to collaborate on anything that has to do with Python.
 - 📫 How to reach me by email at robert.cooper.rayburn@gmail.com
 
